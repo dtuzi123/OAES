@@ -3,11 +3,11 @@
 
 >📋 This is the implementation of Lifelong Variational Autoencoder via Online Adversarial Expansion Strategy
 
->📋 Accepted by AAAI 2023
+>📋 Accepted by AAAI 2023 (Oral)
 
 # Title : Lifelong Variational Autoencoder via Online Adversarial Expansion Strategy
 
-# Paper link : 
+# Paper link : https://www.researchgate.net/profile/Adrian-Bors/publication/365926924_Lifelong_Variational_Autoencoder_via_Online_Adversarial_Expansion_Strategy/links/63893987ca2e4b239c7aac41/Lifelong-Variational-Autoencoder-via-Online-Adversarial-Expansion-Strategy.pdf
 
 
 # Abstract
