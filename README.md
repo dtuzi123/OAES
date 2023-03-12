@@ -22,7 +22,7 @@ The Variational Autoencoder (VAE) suffers from a significant loss of information
 
 >📋 Python xxx.py, the model will be automatically trained and then report the results after the training.
 
->📋 Different parameter settings of OCM would lead different results and we also provide different settings used in our experiments.
+>📋 Different parameter settings of the model would lead different results and we also provide different settings used in our experiments.
 
 # BibTex
 >📋 If you use our code, please cite our paper as:
